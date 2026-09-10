@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "title": "To Kill a Mockingbird",
+    "author": "Harper Lee",
+    "publication_year": 1960
+  },
+  {
+    "id": 2,
+    "title": "1984",
+    "author": "George Orwell",
+    "publication_year": 1949
+  },
+  {
+    "id": 3,
+    "title": "The Great Gatsby",
+    "author": "F. Scott Fitzgerald",
+    "publication_year": 1925
+  },
+  {
+    "id": 4,
+    "title": "One Hundred Years of Solitude",
+    "author": "Gabriel García Márquez",
+    "publication_year": 1967
+  },
+  {
+    "id": 5,
+    "title": "A Brief History of Time",
+    "author": "Stephen Hawking",
+    "publication_year": 1988
+  },
+  {
+    "id": 6,
+    "title": "The Catcher in the Rye",
+    "author": "J.D. Salinger",
+    "publication_year": 1951
+  },
+  {
+    "id": 7,
+    "title": "Pride and Prejudice",
+    "author": "Jane Austen",
+    "publication_year": 1813
+  },
+  {
+    "id": 8,
+    "title": "The Hobbit",
+    "author": "J.R.R. Tolkien",
+    "publication_year": 1937
+  },
+  {
+    "id": 9,
+    "title": "Brave New World",
+    "author": "Aldous Huxley",
+    "publication_year": 1932
+  },
+  {
+    "id": 10,
+    "title": "The Diary of a Young Girl",
+    "author": "Anne Frank",
+    "publication_year": 1947
+  },
+  {
+    "id": 11,
+    "title": "Crime and Punishment",
+    "author": "Fyodor Dostoevsky",
+    "publication_year": 1866
+  },
+  {
+    "id": 12,
+    "title": "The Alchemist",
+    "author": "Paulo Coelho",
+    "publication_year": 1988
+  },
+  {
+    "id": 13,
+    "title": "The Little Prince",
+    "author": "Antoine de Saint-Exupéry",
+    "publication_year": 1943
+  },
+  {
+    "id": 14,
+    "title": "Fahrenheit 451",
+    "author": "Ray Bradbury",
+    "publication_year": 1953
+  },
+  {
+    "id": 15,
+    "title": "Catch-22",
+    "author": "Joseph Heller",
+    "publication_year": 1961
+  },
+  {
+    "id": 16,
+    "title": "Frankenstein",
+    "author": "Mary Shelley",
+    "publication_year": 1818
+  },
+  {
+    "id": 17,
+    "title": "The Grapes of Wrath",
+    "author": "John Steinbeck",
+    "publication_year": 1939
+  },
+  {
+    "id": 18,
+    "title": "The Lord of the Rings",
+    "author": "J.R.R. Tolkien",
+    "publication_year": 1954
+  },
+  {
+    "id": 19,
+    "title": "Animal Farm",
+    "author": "George Orwell",
+    "publication_year": 1945
+  },
+  {
+    "id": 20,
+    "title": "The Shining",
+    "author": "Stephen King",
+    "publication_year": 1977
+  }
+]
