@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "name": "Sanjay",
+    "subject": "Mathematics",
+    "score": 98
+  },
+  {
+    "id": 2,
+    "name": "Diya",
+    "subject": "Mathematics",
+    "score": 78
+  },
+  {
+    "id": 3,
+    "name": "Rohan",
+    "subject": "Mathematics",
+    "score": 65
+  },
+  {
+    "id": 4,
+    "name": "Ananya",
+    "subject": "Mathematics",
+    "score": 88
+  },
+  {
+    "id": 5,
+    "name": "Vivaan",
+    "subject": "Mathematics",
+    "score": 74
+  },
+  {
+    "id": 6,
+    "name": "Ishita",
+    "subject": "Mathematics",
+    "score": 95
+  },
+  {
+    "id": 7,
+    "name": "Aditya",
+    "subject": "Mathematics",
+    "score": 81
+  },
+  {
+    "id": 8,
+    "name": "Meera",
+    "subject": "Mathematics",
+    "score": 69
+  },
+  {
+    "id": 9,
+    "name": "Arjun",
+    "subject": "Mathematics",
+    "score": 87
+  },
+  {
+    "id": 10,
+    "name": "Kavya",
+    "subject": "Mathematics",
+    "score": 91
+  },
+  {
+    "id": 11,
+    "name": "Kabir",
+    "subject": "Mathematics",
+    "score": 73
+  },
+  {
+    "id": 12,
+    "name": "Aanya",
+    "subject": "Mathematics",
+    "score": 84
+  },
+  {
+    "id": 13,
+    "name": "Reyansh",
+    "subject": "Mathematics",
+    "score": 59
+  },
+  {
+    "id": 14,
+    "name": "Myra",
+    "subject": "Mathematics",
+    "score": 89
+  },
+  {
+    "id": 15,
+    "name": "Krish",
+    "subject": "Mathematics",
+    "score": 76
+  },
+  {
+    "id": 16,
+    "name": "Sara",
+    "subject": "Mathematics",
+    "score": 93
+  },
+  {
+    "id": 17,
+    "name": "Atharv",
+    "subject": "Mathematics",
+    "score": 68
+  },
+  {
+    "id": 18,
+    "name": "Navya",
+    "subject": "Mathematics",
+    "score": 82
+  },
+  {
+    "id": 19,
+    "name": "Dhruv",
+    "subject": "Mathematics",
+    "score": 71
+  },
+  {
+    "id": 20,
+    "name": "Pihu",
+    "subject": "Mathematics",
+    "score": 97
+  }
+]
