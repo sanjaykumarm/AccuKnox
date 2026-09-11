@@ -62,9 +62,9 @@ def fetch_and_store_books(conn):
         print(f"--> Successfully pulled and updated {len(data_tuples)} records in SQLite.")
         
     except requests.exceptions.RequestException as e:
-        print(f"🚨 Network or API Error occurred: {e}")
+        print(f"Network or API Error occurred: {e}")
     except ValueError:
-        print("🚨 Error: The response payload was not valid JSON data.")
+        print("Error: The response payload was not valid JSON data.")
 
 def display_database_records(conn):
     """Fetches stored records directly from SQLite and displays them cleanly."""

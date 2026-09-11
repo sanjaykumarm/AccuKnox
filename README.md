@@ -1,5 +1,5 @@
 # AccuKnox
-AccuKnox intern AI/ML assignment
+AccuKnox AI/ML assignment
 
 
 ### Installation & Setup

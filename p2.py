@@ -12,10 +12,10 @@ def fetch_student_data(url):
         response.raise_for_status()  # Check for HTTP errors (404, 500, etc.)
         return response.json()
     except requests.exceptions.RequestException as e:
-        print(f"🚨 Network error occurred while fetching data: {e}")
+        print(f"Network error occurred while fetching data: {e}")
         return None
     except ValueError:
-        print("🚨 Error: The response payload was not valid JSON data.")
+        print("Error: The response payload was not valid JSON data.")
         return None
 
 def process_and_visualize(students):
